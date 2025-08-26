@@ -1,7 +1,7 @@
 ![logo](https://github.com/Gfatima43/Ghulam-Fatima/blob/main/Ghulam-Fatima.jpg)
 
 <h1 align="center">Hi 👋, I'm Ghulam Fatima</h1>
-<h3 align="center">A passionate Back-End Developer and Software Engineer.</h3>
+<p align="center">I'm a passionate <b>Web Developer</b> and <b>Data Analyst</b> who loves turning ideas into reality with code. My journey spans building dynamic web applications, analyzing data to uncover insights, and always thinking up new ways technology can make life better.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gfatima43&label=Profile%20views&color=0e75b6&style=flat" alt="ghulam-fatima" /> </p>
 
@@ -9,16 +9,10 @@
 
 - 💬 Ask me about **Skills I have, like Website Development and Social Media Marketing**
 
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-  <a href="https://www.linkedin.com/in/ghulam-fatima-avesi-50ba552b9/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"/></a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="30" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="45" height="30" alt="facebook logo"  />
-</div>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+## 🛠 Language and tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -56,6 +50,28 @@
   <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="wordpress logo"  />
 </div>
 
+## 💡 What I Do
+
+- Develop full-stack web applications
+- Analyze and visualize data to drive decisions
+- Automate workflows and build REST APIs
+- Connect front-end and back-end for seamless experiences
+
+###
+
+## 🔗 Connect with me:
+<div align="left">
+  <a href="https://www.linkedin.com/in/ghulam-fatima-avesi-50ba552b9/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"/></a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="30" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="45" height="30" alt="facebook logo"  />
+</div>
+
+###
+
+## ✨ Let's Connect!
+
+I'm always open to collaborating, discussing new ideas, or helping with projects. Feel free to reach out!
+
 ###
 
 <h3 align="left">🔥 GitHub Stats </h3>
@@ -66,4 +82,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=gfatima43&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
